@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: aqua
+}
+
+#img{
+    width: 450px;
+    border-radius: 20%;
+}
